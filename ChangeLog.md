@@ -1,4 +1,4 @@
-# rise-up
+# Rise Up!
 Action-adventure game
 
 # Change log
@@ -14,7 +14,7 @@ ___
 
 • Options menu.
 
-- Now u can modify some settings, and look at player controls. (You can't customize the controls at the moment and save settings, but it's temporary (maybe not)).  
+ - Now u can modify some settings, and look at player controls. (You can't customize the controls at the moment and save settings, but it's temporary (maybe not)).  
 
 • Enemies Improvements.
 

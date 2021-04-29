@@ -36,6 +36,8 @@ ___
 - Damage from most throwable items has been reduced
 - Object pick up distance increased from 2 to 2.5
 - Increased brightness in environment lighting on level 2
+- Ledge system was slightly reworked
+- Level 02 was slightly reworked
 ___
 
 ### Bug Fixes

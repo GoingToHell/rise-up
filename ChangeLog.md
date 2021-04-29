@@ -35,6 +35,7 @@ ___
 - Secret (purple) shards can only be picked up 
 - Damage from most throwable items has been reduced
 - Object pick up distance increased from 2 to 2.5
+- Increased brightness in environment lighting on level 2
 ___
 
 ### Bug Fixes

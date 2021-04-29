@@ -11,7 +11,7 @@ ___
 - Path Notes! Oh, wow!
 - Royal stash now open to explore 
 - Options menu.
-  - Now u can modify some settings, and look at player controls. (You can't customize the controls at the moment and save settings, but it's temporary (maybe not)). 
+  - Now u can modify some settings. (You can't customize the controls at the moment, but it's temporary (maybe not)). 
 - Enemies Improvements.
   - All enemies' animations now play correctly. Enemy behavior has also been changed. (Some of them still got animation bugs, we fix them someday. Maybe) 
 - Adaptive UI

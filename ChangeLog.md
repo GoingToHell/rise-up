@@ -18,6 +18,7 @@ ___
   - All enemies' animations now play correctly. Enemy behavior has also been changed. (Some of them still got animation bugs, we fix them someday. Maybe) 
 - Adaptive UI
   - Now all UI elements adapt to your screen size 
+- The level selection screen now looks more presentable
 ___
 
 ### Changes

@@ -13,7 +13,7 @@ ___
 - Options menu.
   - Now u can modify some settings. (You can't customize the controls at the moment, but it's temporary (maybe not)). 
 - Music!
-  - If u catch a bugs with overriding music just press "M" on your keyboard, music should be restarted without overriding.
+  - If u catch a bug with overriding music just press "M" on your keyboard, music should be restarted without overriding.
 - Enemies Improvements.
   - All enemies' animations now play correctly. Enemy behavior has also been changed. (Some of them still got animation bugs, we fix them someday. Maybe) 
 - Adaptive UI

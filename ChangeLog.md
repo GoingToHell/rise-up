@@ -3,6 +3,26 @@ Action-adventure game
 
 # Changelog
 
+## v0.2.1 - May 01, 2021
+___
+
+### What's new?
+
+- Banner Hint.
+  - Dynamic hint that will help player find some stuff. (For those type of players that still can't find the button at level 03)
+___
+
+### Changes
+
+- Enemies health was decreased for create more casually type of gameplay 
+  - Bes health from 30 to 20
+  - Demon health from 60 to 40
+  - Skeleton health from 45 to 30
+  - Spirit health from 30 to 25
+- A quarter of the enemies were removed in the third level 
+- Level 02 now have a hint after player picking up a scroll. 
+___
+
 ## v0.2.0 - April 28, 2021
 ___
 

@@ -31,6 +31,8 @@ ___
 
 - And bunch of little fixes
 
+___
+
 ## v0.2.1 - May 01, 2021
 ___
 

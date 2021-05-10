@@ -3,6 +3,34 @@ Action-adventure game
 
 # Changelog
 
+## v0.3.0 - May 10, 2021
+___
+
+### What's new?
+
+- The "Final" level is ready and open to all players
+- New in-game and menu music
+- New hotkey for restart the level. Use "TAB" key to restart the level
+
+___
+
+### Changes
+
+- Pick up object system was slightly changed (u don't recognized any difference, but just know this;
+- Fireball "twirl" effect was removed
+  - Due to your feedback, it was decided to abandon this idea. 
+
+___
+
+### Bug Fixes
+- Sphere on level 01 has an incorrect light.
+  - The correct color is being used now  
+
+- Object deals damage to enemy when he walk on it
+  - Previously, objects around did damage to enemies when they touched them. Problem has been terminated (Maybe not).  
+
+- And bunch of little fixes
+
 ## v0.2.1 - May 01, 2021
 ___
 

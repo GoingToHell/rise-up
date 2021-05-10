@@ -23,6 +23,10 @@ ___
 ___
 
 ### Bug Fixes
+
+- Save button doesn't work on level 02 and level 03
+  - Now it works fine
+
 - Sphere on level 01 has an incorrect light.
   - The correct color is being used now  
 

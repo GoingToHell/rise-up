@@ -3,6 +3,23 @@ Action-adventure game
 
 # Changelog
 
+## v0.4.0 - May 16, 2021
+___
+
+### What's new?
+
+- This new version brings some UI elements and effects
+- New improved menu
+- About page
+
+___
+
+### Bug Fixes
+
+- Fixed UI buttons animations 
+
+___
+
 ## v0.3.0 - May 10, 2021
 ___
 

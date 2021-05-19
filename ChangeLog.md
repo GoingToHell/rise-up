@@ -3,7 +3,7 @@ Action-adventure game
 
 # Changelog
 
-## v0.4.0 - May 16, 2021
+## v0.4.0 - May 22, 2021
 ___
 
 ### What's new?

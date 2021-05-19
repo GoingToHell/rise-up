@@ -11,12 +11,22 @@ ___
 - This new version brings some UI elements and effects
 - New improved menu
 - About page
+___
+
+### Changes
+
+- Skeleton health was increased from 30 -> 40
+- Pick up system was slightly changed, which brings some improvements and fixes most of the bugs associated with this mechanic 
 
 ___
 
 ### Bug Fixes
 
 - Fixed UI buttons animations 
+- PickUp system deals double damage to all enemies except minotaur
+  - Now works like it should
+- Save button in options menu doesn't work on level 02 and level 03.
+  - Problem solved, design improved 
 
 ___
 

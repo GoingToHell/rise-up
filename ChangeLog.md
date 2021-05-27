@@ -11,6 +11,10 @@ ___
 - This new version brings some UI elements and effects
 - New improved menu
 - About page
+- Options Menu UI
+- Main Menu UI
+- Quit Stopper UI
+- Pause Menu UI
 ___
 
 ### Changes

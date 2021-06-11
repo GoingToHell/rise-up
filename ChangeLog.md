@@ -8,7 +8,7 @@ ___
 
 ### What's new?
 
-- More sounds was added (More sounds will be added in the next update)
+- Added some sounds (More sounds will be added in the next update)
 - New menu and in-game music
 
 ___

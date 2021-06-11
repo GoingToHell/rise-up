@@ -3,7 +3,7 @@ Action-adventure game
 
 # Changelog
 
-## BETA 1.0.0
+## BETA  v1.0.0
 ___
 
 ### What's new?

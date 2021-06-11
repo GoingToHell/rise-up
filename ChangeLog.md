@@ -15,6 +15,9 @@ ___
 
 ### Changes
 
+- Magick system was slightly reworked (You don't recognized any difference, but it is)
+- Magick book mechanics has slightly changed
+ - For every book that player has found and used, he will get + 10 damage to his fireball and it will increase the spell cost by 1. It means that if the player picking up the first book, fireball should have 20 damage (instead of 10) and it will cost 2 mana (instead of 1)
 - Some of the light sources in level 01 was deleted
 - FadeIn delay for music at the start of the level was increased from 0.2 -> 0.4s
 - Some of the hints was changed
@@ -26,6 +29,8 @@ ___
 
 ### Bug Fixes
 
+- Magick book works only on active level
+  - Actually, it's not a bug, it's just a cool programmer who forgot to save and load settings for fireball. Nevermind, it's all working now
 - Checkpoint collider in level 01
   - Apparently, under some circumstances, it may not appear. We fixed that (Let us know, if for some reason it doesn't appear again)
 - Adaptivity bugs was fixed

@@ -3,6 +3,35 @@ Action-adventure game
 
 # Changelog
 
+## BETA 1.0.0
+___
+
+### What's new?
+
+- More sounds was added (More sounds will be added in the next update)
+- New menu and in-game music
+
+___
+
+### Changes
+
+- Some of the light sources in level 01 was deleted
+- FadeIn delay for music at the start of the level was increased from 0.2 -> 0.4s
+- Some of the hints was changed
+  - Some of the mechanics should be described in more detail 
+- Removed half of unused assets for optimization purposes 
+- Collect sound was changed for a better one
+
+___
+
+### Bug Fixes
+
+- Checkpoint collider in level 01
+  - Apparently, under some circumstances, it may not appear. We fixed that (Let us know, if for some reason it doesn't appear again)
+- Adaptivity bugs was fixed
+
+___
+
 ## v0.4.0 - May 27, 2021
 ___
 
